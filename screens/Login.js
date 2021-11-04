@@ -9,7 +9,7 @@ const Login = () => {
             <StatusBar style="dark"/>
             <InnerContainer>
                 <Logo source={require('./../assets/logo.png')}/>
-                <PageTitle
+                <PageTitle/>
                 <Formik >
 
                 </Formik>  
